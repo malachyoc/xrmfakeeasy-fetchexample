@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageSession xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="4.7.922.0">
+  <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" maxCrapScore="0" minCrapScore="0" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+  <Modules>
+    <Module skippedDueTo="Filter" hash="D9-EC-2B-E3-8D-0B-B0-3B-AB-7B-67-0B-56-8D-9B-52-FF-CF-F2-68">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_64\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll</ModulePath>
+      <ModuleTime>2019-09-12T21:19:41.9206544Z</ModuleTime>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="D3-AE-A6-17-88-6D-31-7D-E7-28-6A-48-E5-BF-FD-66-89-C0-4E-8F">
+      <ModulePath>C:\repos\swift\crm-platform\src\packages\xunit.runner.console.2.4.1\tools\net462\xunit.console.exe</ModulePath>
+      <ModuleTime>2018-10-29T04:17:04Z</ModuleTime>
+      <ModuleName>xunit.console</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="E9-42-1F-9B-AB-80-B5-9B-65-83-B8-65-C9-06-DE-E2-87-78-3F-B7">
+      <ModulePath>C:\repos\swift\crm-platform\src\packages\xunit.runner.console.2.4.1\tools\net462\xunit.abstractions.dll</ModulePath>
+      <ModuleTime>2018-10-29T04:17:04Z</ModuleTime>
+      <ModuleName>xunit.abstractions</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="15-AF-E8-64-E2-D2-4F-1F-24-D5-7E-5F-41-F5-89-B8-BE-20-F0-98">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll</ModulePath>
+      <ModuleTime>2019-09-12T21:20:02Z</ModuleTime>
+      <ModuleName>System.Core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="3F-B1-8A-69-10-59-6E-F6-8F-F4-35-DB-20-D4-05-CB-2E-B4-A0-4F">
+      <ModulePath>C:\repos\swift\crm-platform\src\packages\xunit.runner.console.2.4.1\tools\net462\xunit.runner.utility.net452.dll</ModulePath>
+      <ModuleTime>2018-10-29T04:17:02Z</ModuleTime>
+      <ModuleName>xunit.runner.utility.net452</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="4A-9D-81-85-DC-CF-74-ED-91-AC-6F-7B-37-3D-3E-0B-36-5C-56-66">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</ModulePath>
+      <ModuleTime>2019-07-24T02:58:28Z</ModuleTime>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="E4-D1-8B-D7-79-3C-B4-80-A8-3F-D2-B2-34-ED-5A-C5-10-62-37-F2">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml.Linq\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.Linq.dll</ModulePath>
+      <ModuleTime>2019-03-19T04:46:43.9447582Z</ModuleTime>
+      <ModuleName>System.Xml.Linq</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="BA-94-4B-50-1E-D5-31-87-F3-25-6E-BA-07-71-E4-9F-22-0D-B8-34">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll</ModulePath>
+      <ModuleTime>2019-03-19T04:46:51.77351Z</ModuleTime>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+  </Modules>
+</CoverageSession>

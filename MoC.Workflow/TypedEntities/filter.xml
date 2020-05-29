@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<filter>
+	<entities>
+		<entity>BusinessProcessFlowInstance</entity>
+    <entity>calendar</entity>
+    <entity>calendarrule</entity>
+    <entity>email</entity>
+		<entity>ProcessStage</entity>
+    <entity>Workflow</entity>
+    <entity>SystemUser</entity>
+    <entity>Team</entity>
+    <entity>TeamMembership</entity>
+    <entity>template</entity>
+    <entity>timezonedefinition</entity>
+  </entities>
+</filter>
